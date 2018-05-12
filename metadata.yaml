@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4590
     wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43016#Chaucer-s-Works-Volume-5--of-7----Notes-to-the-Canterbury-Tales
 gutenberg_issued: '2013-06-23'
 gutenberg_type: Text
 identifiers:
